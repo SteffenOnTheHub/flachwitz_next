@@ -1,0 +1,429 @@
+     1 --- "Du hast aber schon mal einen Schornstein gemauert, oder?" "Nein, das ist ein Versuchskaminchen."
+     2 --- (bayerisch vorgelesen) Warum ham die Araber ka Brot? Weil's Kamel haben.
+     3 --- (bayerisch vorgelesen) Was ist das wärmste Körperteil am Hai? Die Haizung.
+     4 --- Aus welchem Land kommen Schornsteinfeger? Aus Rußland!
+     5 --- Aus welcher Stadt kommen die Audiokabel? Auxburg
+     6 --- Axl Rose hat seiner nordfriesischen Freundin ein Liebeslied geschrieben: Sweet Child of Moin.
+     7 --- Beim Zahnarzt: "Das kann jetzt ein bisschen weh tun." - "Kein Problem." - "Ich hab seit 3 Jahren ein Verhältnis mit Ihrer Frau."
+     8 --- Brennholzverleih.
+     9 --- Dem Reh fallen die Haare aus. Der Doktor weist es in eine Rehhaarklinik ein.
+    10 --- Der Erfinder des Post-It-Zettels ist gestorben. Die tröstliche Nachricht: Es gibt ein Kleben nach dem Tod.
+    11 --- Der Pfannkuchenbäcker ist an seinem eigenen Teig erstickt. Einfach crepiert.
+    12 --- Die deutsche Sprache ist sehr kompliziert. Wenn man einen einzigen Buchstaben verdreht, ist der Satz uriniert.
+    13 --- Egal wie "dicht" du bist, Goethe war Dichter.
+    14 --- Egal wie du kochst, Karl Marx.
+    15 --- Egal wie gut Du fährst, Züge fahren Güter.
+    16 --- Egal wie viel CD's du hast. Karl hat Mercedes.
+    17 --- Eier sind gar nicht so ungefährlich. Eines hat immerhin den Sheriff erschossen!
+    18 --- Ein Besoffener beschimpft und beleidigt ein Helium. Und was macht es? Es reagiert nicht.
+    19 --- Ein Gockel bekommt eine Blasterpistole. Aus versehen bringt er damit alle Hühner um. Da ist der Hahn Solo.
+    20 --- Einbruch bei Adidas. Was schickt die Polizei? Drei Streifen.
+    21 --- Fliegt ein Kuckuck übers Meer. Grüßt ihn ein Hai: "Hi!" - "Kuckuck!"
+    22 --- Fragt der Polizist: Haben sie Restalkohol? - Nee, alles ausgetrunken.
+    23 --- Geben sich verliebte Anästhesisten eigentlich Narkosenamen?
+    24 --- Gehen zwei Zahnstocher durch den Wald. Kommt ein Igel vorbei. Sagt der eine Zahnstocher: "Ich wusste gar nicht, dass hier ein Bus fährt."
+    25 --- Geht ein Cowboy zum Friseur. Als er wieder rauskommt ist sein Pony weg.
+    26 --- Geht eine schwangere Frau zum Bäcker und sagt: "Ich bekomme ein Brot."
+    27 --- Huch, meine Uhr ist runter gefallen. Ich kann sie nicht aufheben. - Ich hab kein Uhrheberrecht.
+    28 --- Hüpft ein Rudel Gurken durch den Wald. Was ist falsch? Gurken sind keine Rudeltiere.
+    29 --- Ich bin so unentschlossen. Als japanischer Krieger wäre ich ein Nunja.
+    30 --- Ich brauche eine Krankschreibung? Was fehlt ihnen denn? Eine Krankschreibung.
+    31 --- Ich habe bei Spiderman angerufen, aber der hatte kein Netz.
+    32 --- Ich habe bei den Weight Watchers angerufen: Aber keine hat abgenommen.
+    33 --- Ich habe bei einem Brötchen angerufen, aber: War belegt.
+    34 --- Ich habe bei nem DJ angerufen: Der hat einfach aufgelegt.
+    35 --- Ich habe beim Arzt angerufen: Ich wurde aber nicht verbunden.
+    36 --- Ich habe beim Bäcker angerufen, da ging aber nur die Mehlbox ran.
+    37 --- Ich habe beim Metzger angerufen, aber kein Schwein ging ran.
+    38 --- Ich habe das Herz eines Löwen ... und lebenslanges Verbot im Leipziger Zoo.
+    39 --- Ich habe einem Hipster ans Schienbein getreten. Jetzt hopster.
+    40 --- Ich habe einen total lieben Hund, der ist so ruhig - der hat sogar den No-Bell preis gewonnen.
+    41 --- Ich habe in der Botschaft angerufen, aber keiner ging ran. War wohl Kanada.
+    42 --- Ich habe meiner Frau zu Weihnachten einen Nerz geschenkt und jetzt weigert sie sich, das Tier zu füttern.
+    43 --- Ich wollte einen Witz über die Deutsche Bahn machen, aber ich wusste nicht ob der ankommt.
+    44 --- Im Restaurant: Isst Du gerne wild? - Nein, ganz normal und langsam.
+    45 --- In Mittelamerika gibt es kaum gute Tapezierer - aber dafür Guatemala!
+    46 --- In St. Pauli wurde gestern ein Sarg gefunden. Aber der ging und ging nicht auf. War wohl ein Zuhälter drin?
+    47 --- In welchem Land ist man so langsam wie eine Schnecke? In Kriechenland.
+    48 --- In welcher Maßeinheit messen Hunde ihre Temperatur? In Belgrad.
+    49 --- Klaus war echt nervig, deshalb bekam er nie frische Brötchen. Klaus störte Bäcker.
+    50 --- Kommt ein Dachdecker in eine Bar. — Sagt der Wirt: "Der geht aufs Haus."
+    51 --- Kommt ein Frosch in den Milchladen. Fragt die Verkäuferin: "Was willst du denn?" - Sagt der Frosch: "Quak."
+    52 --- Kommt ein Igel in die Konditorei: "Einmal Rumkugeln bitte" -- Wenn sie wollen, wir haben gerade frisch gewischt.
+    53 --- Kommt ein Pferd in den Blumenladen: "Haben sie Mageriten?" (ma' geritten)
+    54 --- Mein Arzt hat eine südamerikanische Augenkrankheit bei mir diagnostiziert - ich "Chile".
+    55 --- Mein Hund ein echter Charmeur. Immer wenn ich ihn fragt: Na wie sehe ich aus, sagt er: Wau!
+    56 --- Mir ist kalt - ich geh mal in die Ecke. Da sind 90 Grad.
+    57 --- Neulich im Tatort: Wo waren Sie zur Tatzeit? - Im Internet!
+    58 --- Papa, in Ägypten ist nächste Woche auch keine Schule!" -- "Ok?" -- "Ja, die haben da Sphinxferien!"
+    59 --- Sagt der Pessimist: "Schlimmer geht nicht!" - Sagt der Optimist: "Doch!"
+    60 --- Sagt der Walfisch zum Tuhnfisch: "Was wollen wir tun, Fisch?" Sagt der Thunfisch: "Du hast die Wahl, Fisch!"
+    61 --- Sagt die Erbse zur anderen: Vorsicht, da ist eine Trepepepepepepepepe...
+    62 --- Sagt die eine Kerze zur anderen: Du, ist Wasser eigentlich gefährlich? - Sagt die andere: Davon kannst Du ausgehen.
+    63 --- Sagt die eine Sicherung zur anderen: Lass uns zusammen durchbrennen!
+    64 --- Sagt die eine Wand zur anderen Wand: Wir treffen uns an der Ecke.
+    65 --- Sagt ne Kuh zum Polizisten: "Mein Mann ist auch Bulle."
+    66 --- Schicke Unterwäsche! - Wohin?
+    67 --- Sprechstundenhilfe: "Warum tragen Sie eine Augenklappe?" "Ich bin Piratpatient."
+    68 --- Steht ein Baum allein im Wald...
+    69 --- Steht ein Pils im Wald. Kommt ein Hase und trinkt es aus. Und warum steht ein Pils im Wald? Weil die Tannen zapfen.
+    70 --- Stelle dir zwei bayerisch getrachtete Personen vor, die die Daumen nach oben recken. In der anderen Hand Bier und Brezn. Was ist das? Confirmation Bayers
+    71 --- Stiftung Warentest hat Besteck getestet. Das Messer hat am besten abgeschnitten.
+    72 --- Tage an denen man plant, Bananen zu essen, nennt man Bananenplantage.
+    73 --- Tonic ohne Alkohol ist übrigens ginlos.
+    74 --- Treffen sich zwei Jäger: Beide Tot.
+    75 --- Treffen sich zwei Magneten: "Was zieh ich heute bloß an?"
+    76 --- Unterhalten sich zwei Fliesenleger: "Wo sind denn die ganzen Fliesen hin?" "Oh, die muss ich wohl verlegt haben."
+    77 --- Wann gehen U-Boote unter? Am Tag der offenen Tür.
+    78 --- Warum darf das Neutron nicht in die Disco? Heute nur geladene Gäste!
+    79 --- Warum findet ein Henker nie den Rückweg? Weil der nur die Hinrichtung kennt.
+    80 --- Warum fliegen Störche im Winter in den Süden? - Weil Laufen zu lange dauern würde.
+    81 --- Warum gehen Ameisen am Sonntag nicht in die Kirche? Weil Ameisen Insekten sind.
+    82 --- Warum gibt es im Wald kein Corona? Weil die Bäume 2G haben.
+    83 --- Warum gibt es in Booten keinen Honig? Weil es auf Schiffen ka-bienen gibt.
+    84 --- Warum haben Fische Schuppen? Damit sie ihre Fahrräder unterstellen können.
+    85 --- Warum haben diese Fische so ausgesprochen gute Zähne? Das sind Kariesprofilachse.
+    86 --- Warum ist der Florist über seine Lieferung traurig? Sie ist eingegangen.
+    87 --- Warum klaut Robin Hood Deo? Um es unter den Armen zu verteilen!
+    88 --- Warum können Seeräuber schlecht mit Kreisen Rechnen? Weil sie Pi-Raten!
+    89 --- Warum können Skelette so schlecht lügen? Die sind so einfach zu durchschauen.
+    90 --- Warum leben Haie im Salzwasser? Weil sie von Pfefferwasser niesen müssen.
+    91 --- Warum muss die Spinne grillen? Sie ist ein Weberknecht.
+    92 --- Warum sind Fußballer eine Gefahr im Straßenverkehr? Weil sie bei rot gehen müssen.
+    93 --- Warum sind bei IKEA Pfeile am Boden? Weil es ein Einrichtungshaus ist.
+    94 --- Warum steht die Freiheitsstatue in New York? Weil sie sich nicht setzen kann.
+    95 --- Warum summen Bienen? Weil sie den Text nicht kennen.
+    96 --- Warum wachsen auf dem Mond keine Blumen? Zu wenig Erde.
+    97 --- Was Schule ist nichts für Veganer? Hackwards.
+    98 --- Was bekommt ein Kannibale, der zu spät zum Essen kommt? Die kalte Schulter.
+    99 --- Was benutzt ein Bär als Eingabegerät? Eine Tatzatur.
+   100 --- Was bestellt ein Maulwurf im Restaurant? — Ein Drei-Gänge-Menü.
+   101 --- Was bringt uns in 30 Jahren mit zunehmendem Klimawandel Pakete? Postboote.
+   102 --- Was denken sich die Gletscher zum Klimawandel? Wir werden Seen.
+   103 --- Was erhält man von Kühen in einem Erdbebengebiet? Milchshakes
+   104 --- Was erzählen sich holländische Süßspeisen am liebsten? Vla-chwitze.
+   105 --- Was erzählt Weizen sich gegenseitig beim Campen? Grieselgeschichten.
+   106 --- Was essen Autos am liebsten? — Parkplätzchen.
+   107 --- Was essen Katzen am liebsten? Mausmannskost.
+   108 --- Was essen Piraten am liebsten? — Kapern.
+   109 --- Was essen Verliebte am liebsten? Kusskuss.
+   110 --- Was findet man beim Kannibalen in der Dusche? — Head and Shoulders.
+   111 --- Was fliegt durchs All und ist gut für die Verdauung? Ein Pflaumschiff.
+   112 --- Was flitzt essbares über die Straßen? Eine Cartoffel.
+   113 --- Was freut sich und stinkt? - Das Gefurztagskind.
+   114 --- Was für ein Gefühl hatte Mozart beim Komponieren? Einen Haydn-Spaß.
+   115 --- Was gibt es bei Olympia— Teilnehmern zum Nachtisch? — Fackelpudding!
+   116 --- Was gräbt und ist aus der Puste? Eine Schnaufel.
+   117 --- Was hat Haare und wird gebraten? Bartkartoffeln.
+   118 --- Was hat acht Arme und fliegt durchs Weltall? Eine Krakete.
+   119 --- Was hat acht Beine und schummelt? Eine Mogelspinne.
+   120 --- Was hat ein Mann, der im Dreieck läuft? Kreislaufprobleme.
+   121 --- Was hat einen Beutel und schießt? Ein Penguruh.
+   122 --- Was hoppelt über die Wiese und raucht aus den Ohren? Ein Kaminchen.
+   123 --- Was hält warm und auch Ordnung? Der Pullizist
+   124 --- Was hört man wenn man sich einen Döner ans Ohr hält? Das Schweigen der Lämmer.
+   125 --- Was isst Familie Biber zu abend? Tischstäbchen.
+   126 --- Was isst eine Bombe am liebsten? KartoffelPUFFer.
+   127 --- Was isst eine Sadomaso Frau vor Weihnachten? Domina-Steine.
+   128 --- Was ist Ronaldo? Sportugiese.
+   129 --- Was ist braun und fährt im Winter die Hänge hinunter? Ein Snowbroad.
+   130 --- Was ist braun und hilft dir, wenn du traurig bist? Ein Trost-brot.
+   131 --- Was ist braun und hängt mit nem Warndreieck im Baum? Ein Pannenzapfen.
+   132 --- Was ist braun und schwimmt unter Wasser? Ein U-Brot.
+   133 --- Was ist braun, gesund und beleidigt? Schmollkornbrot.
+   134 --- Was ist braun, kann fliegen und macht Kindern die Zähne kaputt? - Die Toffi-Fee!
+   135 --- Was ist braun, lebt im Nil und schmeckt lecker? Ein Schokodil.
+   136 --- Was ist braun, lecker und gesund? Schogolade.
+   137 --- Was ist bunt und will dringend aus dem Zimmer raus? Ein Fluchtsalat.
+   138 --- Was ist bunt, leuchtet und kann nicht schwimmen? ein Bagger mit Lichterkette.
+   139 --- Was ist bunt, süß und ein bisschen einfach gestrickt? Ein Dummibärchen.
+   140 --- Was ist das Gegenteil vom Brillenfisch? Ein Sehstern.
+   141 --- Was ist das Gegenteil von Japan? Neinpan.
+   142 --- Was ist das Wichtigste an den Elefanten? Das zweite E, sonst wären es nur 11 Anten. (bayerisch vorgelesen)
+   143 --- Was ist das agressivste Milchprodukt? Schlagsahne.
+   144 --- Was ist das lustigste Auto? Scherzedes.
+   145 --- Was ist das zerstörerischste Tier? Der Schmetterling.
+   146 --- Was ist der schlauste Ast? Ein Gymniasast.
+   147 --- Was ist der unförmigste Seevogel von Nordfriesland? Die Amöve.
+   148 --- Was ist die größte Anerkennung unter Aquarellisten? "Verläuft bei Dir!"
+   149 --- Was ist durchsichtig, stinkt und ignorant? Ein Schnurz.
+   150 --- Was ist ein Cowboy ohne Pferd? Ein Sattelschlepper.
+   151 --- Was ist ein Keks unter einem Baum? Ein schattiges Plätzchen.
+   152 --- Was ist ein nackter Ritter? Ent-rüstet!
+   153 --- Was ist eine Glühbirne, die schockiert zu Boden fällt? Fassungslos!
+   154 --- Was ist eine Kastanie hinter Gittern? Eine Knastanie.
+   155 --- Was ist gefährlicher als Zigarettenrauchen? Gleise. Nur ein Zug und das war’s!
+   156 --- Was ist gelb und flattert im Wind? Eine Fahnane.
+   157 --- Was ist gelb und hüpft durch den Wald? Ein Postfrosch.
+   158 --- Was ist gelb und kann nicht schwimmen? Ein Bagger. Und warum? Weil er nur einen Arm hat.
+   159 --- Was ist gelb und läuft den Baum hoch? Ein Posthörnchen.
+   160 --- Was ist gelb und schießt? Eine Banone.
+   161 --- Was ist gelb und schwimmt über'n See? Eine Schwanane.
+   162 --- Was ist gelb und steht am Fenster? - Eine Spannanas.
+   163 --- Was ist gesund, kräftig und spielt den beleidigten? Das andere Schmollkornbrot.
+   164 --- Was ist groß, braun und schreibt undeutlich? Ein Kritz-li-bär.
+   165 --- Was ist groß, grau und interessiert niemanden? Ein Irrelephant.
+   166 --- Was ist groß, grau und ruft gleich an? Ein Telefant.
+   167 --- Was ist grün und fliegt durchs Weltall? Ein Salatelit.
+   168 --- Was ist grün und fährt Pandabären zur Arbeit? Ein Bam-bus.
+   169 --- Was ist grün und fährt mit der Bahn? Eine Zughini.
+   170 --- Was ist grün und gewinnt jedes Rennen? Ein Schnellerie.
+   171 --- Was ist grün und heiß? Eine Brennnessel.
+   172 --- Was ist grün und hüpft durch den Wald? Ein Rudel Gurken.
+   173 --- Was ist grün und liegt im Sarg? Eine Sterbse.
+   174 --- Was ist grün und macht die Toilette sauber? Ein Klokodil.
+   175 --- Was ist grün und schnarcht am Wegesrand? Eine Pennnessel.
+   176 --- Was ist grün und sitzt auf dem Klo? Der Kacktus.
+   177 --- Was ist grün und tut weh, wenn man es ins Auge kriegt? Ein Billardtisch.
+   178 --- Was ist grün und will dringend ins Zimmer? Ein Klopfsalat.
+   179 --- Was ist grün, blind und kann singen? Kiwi Wonder.
+   180 --- Was ist grün, hängt an der Türklinke und guckt durchs Schlüsselloch? Ein Spionat.
+   181 --- Was ist grün, sauer und versteckt sich vor der Polizei? Ein Essig-Schurke.
+   182 --- Was ist grün, schlau und stellt viele Fragen? - Günther Lauch.
+   183 --- Was ist grün, sitzt auf einem Baum und wenn es runterfällt bist Du verletzt? Ein Billiardtisch.
+   184 --- Was ist grün, springt durchs Gras und ist super happy? Eine Freuschrecke.
+   185 --- Was ist heiß und flauschig? Eine Fellkartoffel.
+   186 --- Was ist klein und schwarz und dreht sich auf der Wiese? Ein Maulwurf beim Hammerwerfen.
+   187 --- Was ist klein, glitschig und immer schlecht gelaunt? Eine Maulquappe.
+   188 --- Was ist klein, rot, rund und voller Magie? Cherry Potter.
+   189 --- Was ist langsam, wird steinalt und macht einen Riesenlärm? Eine Schildtröte.
+   190 --- Was ist lila und bedient im Restaurant? Eine Obergine.
+   191 --- Was ist lässig und hat einen Euter? Eine Kuhl.
+   192 --- Was ist niedlich, lebt in Australien und stinkt? Der Kloala.
+   193 --- Was ist orange und kann nicht still sitzen? Eine Zappelsine.
+   194 --- Was ist orange und läuft durch die Berge? Eine Wandarine.
+   195 --- Was ist pink und trägt ein Maschinengewehr? Ein Rambodieschen.
+   196 --- Was ist rosa und kennt sich gut mit Waffen aus? Die Ballerrina.
+   197 --- Was ist rot und fährt Fahrrad? Raddieschen.
+   198 --- Was ist rot und schlecht für die Zähne? Ein Ziegelstein.
+   199 --- Was ist rot und steht an der Straße? Eine Hagenutte.
+   200 --- Was ist rot und steht im Wald? Ein Kirsch.
+   201 --- Was ist rot und wiehert? Eine Pferdbeere.
+   202 --- Was ist rot, rund und sitzt auf dem Klo? Eine Klomate.
+   203 --- Was ist rothaarig, gesanglich begabt und kann nicht gut malen? Ed Schmieren.
+   204 --- Was ist schwarz, rot und lebt in der Arktis? Ein Pinguin mit Sonnenbrand.
+   205 --- Was ist schwarz-weiß und 50 cm in der Luft? Ein Schwebra.
+   206 --- Was ist schwarz-weiß und explodiert? Ein Sprenguin.
+   207 --- Was ist schwarz-weiß und hüpft auf und ab? Ein Springuin.
+   208 --- Was ist schwarz-weiß und sitzt auf der Schaukel? Ein Schwinguin.
+   209 --- Was ist süß und schwingt sich von Torte zu Torte? Tarzipan.
+   210 --- Was ist süß, klebrig und geht durch die Wüste? Ein Karamel.
+   211 --- Was ist unter der Erde und stinkt? Eine Furzel.
+   212 --- Was ist unzufrieden, redet undeutlich und lebt im Wasser? Eine Mies-Nuschel.
+   213 --- Was ist weiß und fliegt durch den Wald? Biene Mayo.
+   214 --- Was ist weiß und guckt durchs Schlüsselloch? — Ein Spannbettlaken.
+   215 --- Was ist weiß und läuft den Berg hoch? Ein Marschmellow.
+   216 --- Was ist weiß und rennt den Berg wieder hoch? Eine Lawine mit Heimweh.
+   217 --- Was ist weiß und schnarcht auf der Wiese? Ein Schlaf.
+   218 --- Was ist weiß und springt von Baum zu Baum? Ein Tierarzt bei der Zeckenimpfung.
+   219 --- Was ist weiß und steht hinter einem Baum? Eine scheue Milch.
+   220 --- Was ist weiß und stört beim Essen? Eine Lawine.
+   221 --- Was ist weiß und tanz im Wald ums Feuer? Rumpelpilzchen.
+   222 --- Was ist wohlhabend und springt von Ast zu Ast? Ein Scheichhörnchen.
+   223 --- Was kauft ein Mann mit zwei linken Füßen im Schuhgeschäft? Flip Flips.
+   224 --- Was kommt aufs Brot und schmeckt nach Kleister? Kleberwurst.
+   225 --- Was lebt im Meer und spricht undeutlich? Die Nuschel.
+   226 --- Was lebt in der Savanne und ist immer sauber? Eine Hygiäne.
+   227 --- Was liegt am Strand und kann man nicht gut verstehen und ist auch noch erkältet? Eine Niesnuschel.
+   228 --- Was liegt am Strand und kann man nicht gut verstehen? Eine Nuschel.
+   229 --- Was machen PiratInnen, wenn Sie nicht mehr weiterwissen? Einen Arrrrrrrbeitskreis.
+   230 --- Was machen Tiere in der Disko? Sie diskotieren.
+   231 --- Was machen zwei Bäume, wenn sie einen trinken wollen? Sie gehen in ihre Stammkneipe.
+   232 --- Was machen zwei wütende Schafe? Sie bekommen sich in die Wolle.
+   233 --- Was macht der Mathematiker beim Skifahren? Er rechnet mit Brüchen.
+   234 --- Was macht der Ostfriese wenn er zu Hause mehr elektrische Anschlussleistung braucht? Er geht mit dem Eimer raus und holt sich ein paar Kilo Watt.
+   235 --- Was macht die Security in der Nudelfabrik? Die Pasta auf.
+   236 --- Was macht ein Clown im Büro? Faxen.
+   237 --- Was macht ein Kettenraucher im Fitnessstudio? Glimmzüge
+   238 --- Was macht ein Metzger im Wald? Schnitzeljagd.
+   239 --- Was macht ein Steak unter dem Sofa? Sich versteaken.
+   240 --- Was macht ein arbeitsloser Schauspieler? Spielt keine Rolle.
+   241 --- Was macht eine Bombe im Bordell? — Puff.
+   242 --- Was macht eine Bombe im Treppenhaus? Hochgehen.
+   243 --- Was macht eine Ente auf dem Router? Nat.
+   244 --- Was macht man mit einem Hund ohne Beine? Um die Häuser ziehen.
+   245 --- Was passiert wenn man Cola und Bier gleichzeitig trinkt? — Man colabiert.
+   246 --- Was piekst und fliest das Bad? Ein Kachelschwein.
+   247 --- Was redet undeutlich und lebt im Wasser? Eine Nuschel.
+   248 --- Was sagt der Fuchs im Hühnerstall? Raus aus den Federn!
+   249 --- Was sagt der Holzwurmpapa abends zu seinen Kindern? Husch, husch ab ins Brettchen.
+   250 --- Was sagt der Teig bei der Hochzeit? Ich bin ganz gerührt!
+   251 --- Was sagt der frustrierte Origami-Lehrer zu seinem Schüler? Kannste knicken!
+   252 --- Was sagt der große Stift zum kleinen Stift? Wachs-mal-Stift.
+   253 --- Was sagt ein Ackerbesteller bei gutem Wetter? Das Land-wird.
+   254 --- Was sagt ein Gen, wenn es ein anderes trifft? - Halogen.
+   255 --- Was sagt ein Pirat im Pferdestall? A, Heu.
+   256 --- Was schwebt hölzern im All? Der Asttronaut.
+   257 --- Was schwimmt auf dem Teich und fängt mit Z an? Zwei Enten.
+   258 --- Was schwimmt im Meer und addiert? Ein Oktoplus.
+   259 --- Was sind die teuersten Tomaten? Die Geldautomaten.
+   260 --- Was sitzt am Frühstückstisch und winkt? Ein Grüsli.
+   261 --- Was sitzt auf dem Baum und schreit "Aha!" - Ein Uhu mit Sprachfehler.
+   262 --- Was sitzt auf dem Turm und macht alle 15 Minuten Schuhu? Der Turmuhur.
+   263 --- Was sitzt auf einem Baum und winkt? — Ein Huhu!
+   264 --- Was sitzt ganz hinten im Brotkasten und ist beleidigt? Ein Schmollkornbrot.
+   265 --- Was sitzt im Baum und weint? Eine Heule!
+   266 --- Was steht Weihnachten im Wohnzimmer und ist kaputt? Ein Pannenbaum.
+   267 --- Was steht auf dem Herd und ist total geheim? Ein Topf Secret!
+   268 --- Was steht auf der Weide und ist müde? Ein Schlaf.
+   269 --- Was studiert man für einen Führerschein? Fahr-ma-kologie.
+   270 --- Was trinken Koalas am liebsten? Das CocaKoala.
+   271 --- Was veranstalten Berge gegen den Klimawandel? Einen Krisengipfel.
+   272 --- Was will ein Astronaut? All-les.
+   273 --- Was wird oft übersehen? Ein Gartenzaun.
+   274 --- Welche Fische haben die beste Mundhygiene? Die Zahnprophylachse.
+   275 --- Welche Handwerker essen am meisten? Maurer, die verputzen ganze Häuser.
+   276 --- Welche Kuh klebt gerne an Wänden? Das Kuhgummi.
+   277 --- Welche Schuhe tragen Raubfische sehr gern? Hai-Heels.
+   278 --- Welche Weinsorte wächst am Fuße des Vesuvs? Glühwein.
+   279 --- Welched Tier schreibt sich noch mit einem Buchstaben? Der V.
+   280 --- Welcher Buchstabe ist der coolste? Ohmega.
+   281 --- Welcher Fisch nervt im Unterricht? Na der Stör!
+   282 --- Welcher Hund ist immer müde? Der Schläferhund.
+   283 --- Welcher Vogel geht ständig auf die Toilette? Na der Klolibri!
+   284 --- Welcher Vogel sitzt immer auf dem Klo? Der Kakadu.
+   285 --- Welches Essen ist voll der Knaller? Dönermit.
+   286 --- Welches Essen schaut immer böse drein? Das Sauerkraut.
+   287 --- Welches Fortbewegungsmittel hat eine Pandaphobie? Der Bambus.
+   288 --- Welches Gemüse serviert sich selbst? Die Obergine.
+   289 --- Welches Getränk trinken Firmenchefs? Leitungswasser.
+   290 --- Welches Maultier sitzt in der Bar und trink Cappuccino? Das Cafémel.
+   291 --- Welches Nahrungsmittel hilft bei seelischem Kummer? Trostbrot.
+   292 --- Welches Obst geht immer in die Kirche? Die Frommbeere.
+   293 --- Welches Tier badet gern in Tomaten, Basilikum und Olivenöl? Der Mozzarellensittich.
+   294 --- Welches Tier hält immer Maß? Der Ellensittich.
+   295 --- Welches Tier ist ein Genie in Mathe? Das Plusspferd.
+   296 --- Welches Tier klebt gerne zwischen den Zähnen? Der Karamellensittich.
+   297 --- Welches Tier kümmert sich um Meeresbewohner, denen es nicht gut geht? Die Krakenschwester.
+   298 --- Welches Tier schreibt sich mit einem Buchstaben? Die Q.
+   299 --- Welches Tier trägt Strapse und Korsett und ist auch sonst eher verrucht? Der Bordellensittich.
+   300 --- Welches ist die lustigste Automarke? Scherzedes.
+   301 --- Wenn Nicolas Wöhrl sich ein Brötchen schmiert ... ist es dann wissenschaftlich belegt?
+   302 --- Wenn ein südamerikanisches Kameltier betrunken ist ... ist das dann ein Alkpaka?
+   303 --- Wenn eine Kapselkaffeemaschine das Zeitliche segnet, schlägt die Stunde des Senseomanns.
+   304 --- Wer hat Darth Vader auf den Kopf gekackt? Der Star wars.
+   305 --- Wer ist bunt, flattert durch die Luft und hilft wo er nur kann? Ein Retterling.
+   306 --- Wer ist der fröhlichste Held? Happy Potter.
+   307 --- Wer ist der lustigste Bösewicht? Loldemort.
+   308 --- Wer ist grün, kann zaubern und riecht streng? Stinkerbell.
+   309 --- Wer kümmert sich um die Gräten der Meeresbewohner? Der Oktopäde.
+   310 --- Wer mit Nüssen zahlt, darf sich nicht wundern, wenn Affen für ihn arbeiten.
+   311 --- Wer wohnt im Dschungel und schummelt? Mogli.
+   312 --- Wie begrüßen sich Schönheitschirurgen? Na, was machst Du denn für ein Gesicht?
+   313 --- Wie berechnet eine Kuh die Fläche ihrer Weide? -- Mit der Muhtiplikation.
+   314 --- Wie heißt das intelligenteste Gemüse? - Schlaubergine.
+   315 --- Wie heißt der Bruder von Elvis? Zwölfis.
+   316 --- Wie heißt der Erfinder der Shorts? Kurt C. Hose.
+   317 --- Wie heißt der Tiger mit Vornamen? - Schaumfes!
+   318 --- Wie heißt der einsamste Franzose? Alain.
+   319 --- Wie heißt die musikalischste Leckerei? Popcorn.
+   320 --- Wie heißt ein Keks an der Börse? Spekulatius.
+   321 --- Wie heißt ein Ritter ohne Helm? Willhelm.
+   322 --- Wie heißt ein Spanier ohne Auto? Carlos.
+   323 --- Wie heißt eine kleine, 4-saitige Gitarre aus fair gehandeltem Holz? Ökolele
+   324 --- Wie ist die Handschrift eines Tintenfisches? Krakelig.
+   325 --- Wie kann man entspannt Geld anhäufen? Mit einem SPAschwein.
+   326 --- Wie kastriert man einen Kühlschrank? Tür auf, Eier raus, Tür zu.
+   327 --- Wie nennt man Fernsehverbot auf Russisch? Njetflix.
+   328 --- Wie nennt man Han Solo, wenn er in der Disko rumtanzt? Han Twerker.
+   329 --- Wie nennt man Kaninchen im Fitnessstudio? Pumpernickel.
+   330 --- Wie nennt man Sex mit Gegenständen? Dingsbums
+   331 --- Wie nennt man befreundete Gummibärchen? Haribros.
+   332 --- Wie nennt man das Fahrrad einer arabisch Kuh? Murad
+   333 --- Wie nennt man das Foto eines Waisenkindes? Familienbild.
+   334 --- Wie nennt man das Küchengerät dass dir heimlich die Süßigkeiten wegisst? Die Spülnaschine.
+   335 --- Wie nennt man das Oberteil von Meerjungfrauen? Algebra.
+   336 --- Wie nennt man den Assistenten eines Schönheitschirurgen? Liftboy!
+   337 --- Wie nennt man den Flur eines Iglus? Eisdiele!
+   338 --- Wie nennt man den germanischen Gott der Ungeduld? Hammersbald.
+   339 --- Wie nennt man die Einwohner Lettlands nach dem EU-Beitritt? Europaletten.
+   340 --- Wie nennt man die Steigerung von Buchstabensuppe? Wörtersee.
+   341 --- Wie nennt man die Zeitform wenn der Bus pünktlich war? Buskamperfekt!
+   342 --- Wie nennt man ein Monster mit Schnupfen? Rotzilla.
+   343 --- Wie nennt man ein Rudel aggressiver Wölfe? Wolfgang.
+   344 --- Wie nennt man ein kleines schwäbisches Schwein, das um Hilfe ruft? Ein Notrufsäule.
+   345 --- Wie nennt man ein tiefgefrorenes Mammut? Hart-mut!
+   346 --- Wie nennt man ein verschwundenes Rindvieh? - Oxford.
+   347 --- Wie nennt man ein weißes Mammut? Hell-mut!
+   348 --- Wie nennt man eine Biene, die diagonal fliegt? Eine Quersumme.
+   349 --- Wie nennt man eine Frucht, die ein großes Anwesen hat? -- Eine Hektarine.
+   350 --- Wie nennt man einen Ausserirdischen, der in der Informationstechnik arbeitet? Italien.
+   351 --- Wie nennt man einen Bumerang, der nicht zurück kommt? Stock.
+   352 --- Wie nennt man einen Bär der KungFu beherscht? Grizzly.
+   353 --- Wie nennt man einen Bären der "Granufink" braucht? Ein Pullerbär.
+   354 --- Wie nennt man einen Delfin mit einer Unterhose auf dem Kopf? Slipper.
+   355 --- Wie nennt man einen Deutschen im Weltraum? Allmann.
+   356 --- Wie nennt man einen Gerd, der den Rasen mäht? Gerd-ner.
+   357 --- Wie nennt man einen Hering, der Regie führt? Einen (Uwe) Bollmops.
+   358 --- Wie nennt man einen Hering, der am Flughafen arbeitet? Einen Zollmops.
+   359 --- Wie nennt man einen Hering, der beleidigt ist? Einen Schmollmops.
+   360 --- Wie nennt man einen Hering, der die besten Memes postet? Einen Lolmops.
+   361 --- Wie nennt man einen Hering, der doofe Kommentare schreibt? Einen Trollmops.
+   362 --- Wie nennt man einen Hering, der gerne Atombombentests macht? Einen Atollmops.
+   363 --- Wie nennt man einen Hering, der gerne Befehle befolgt? Einen Jawollmops.
+   364 --- Wie nennt man einen Hering, der gerne Fußball mag? Einen (Mehmet) Schollmops.
+   365 --- Wie nennt man einen Hering, der gerne strickt? Einen Wollmops.
+   366 --- Wie nennt man einen Hering, der immer alles aufschreibt? Einen Protokollmops.
+   367 --- Wie nennt man einen Hering, der immer alles machen muss? Einen Sollmops.
+   368 --- Wie nennt man einen Hering, der immer nur traurige Musik spielt? Einen Mollmops.
+   369 --- Wie nennt man einen Hering, der immer sauer ist? Einen Grollmops.
+   370 --- Wie nennt man einen Hering, der immer total begeistert ist? Einen Tollmops.
+   371 --- Wie nennt man einen Hering, der sehr unkultiviert ist? Einen Prollmops.
+   372 --- Wie nennt man einen Hering, der sich für Umfragen interessiert? Einen Pollmops.
+   373 --- Wie nennt man einen Hering, der total besoffen ist? Einen Vollmops.
+   374 --- Wie nennt man einen Hering, der total gerne Puppen mag? Einen Dollmops.
+   375 --- Wie nennt man einen Hund der gerne Äpfel isst? Apfelpudel.
+   376 --- Wie nennt man einen Landwirt mit Studium? Einen Ackerdemiker.
+   377 --- Wie nennt man einen ausgehungerten Frosch? Magerquark.
+   378 --- Wie nennt man einen dicken Schriftsteller? - Kugelschreiber!
+   379 --- Wie nennt man einen dünnen Weihnachtsmann? Nikolauch.
+   380 --- Wie nennt man einen extrem dünnen Frosch? Magerquak.
+   381 --- Wie nennt man einen hungrigen risikobereiten Wellensittich? Trill-Seeker
+   382 --- Wie nennt man einen kleinen Matrosen, der sich nicht wäscht? Na: Ein Meerschweinchen!
+   383 --- Wie nennt man einen kleinen Türsteher? Sicherheitshalber.
+   384 --- Wie nennt man einen schlechtgelaunten T-Rex? Dinosaurier
+   385 --- Wie nennt man einen unfreundlichen Milliardär? Eurogant.
+   386 --- Wie nennt man einen veganen Vampir? Graf Rucola!
+   387 --- Wie nennt man einen überfahrenen Vogel? Piepmatsch!
+   388 --- Wie nennt man es, wenn man nicht mehr aufhören kann, frittierte Kartoffeln zu essen? Krokettenreaktion
+   389 --- Wie nennt man heute einen Hofnarr? Untertainer.
+   390 --- Wie nennt man jemand der nur so tut als würde er etwas werfen? Einen Scheinwerfer.
+   391 --- Wie nennt man jemanden der DIN A4 Blätter scannt? Skan-din-a-vier.
+   392 --- Wie sperrt man das Spielzimmer ab? Mit einem Kinderriegel.
+   393 --- Wie viel wiegen ein Pferd und ein Hund zusammen? Ein PfHund!
+   394 --- Wie viele Psychotherapeuten braucht man um eine Glühbirne zu wechseln? Einen, aber die Birne muss auch wollen.
+   395 --- Wie viele Softwareentwickler braucht man um eine Glühbirne zu wechseln? Keinen, das ist eindeutig ein Hardwareproblem.
+   396 --- Wie vollzieht Bibi Blocksberg eine Scheidung? Ex, Ex!
+   397 --- Wie war die Stimmung in der DDR? Sie hielt sich in Grenzen.
+   398 --- Wie wars in Venedig? Saarbrücken.
+   399 --- Wieso können Seeräuber keinen Kreis fahren? - Weil sie Pi raten.
+   400 --- Will jemand einen Witz über Natriumhydrat hören - NaH!
+   401 --- Wo baden Eisbären am liebsten? Im Nordpool.
+   402 --- Wo geht Darth Vader shoppen? In der Darth Mall!
+   403 --- Wo geht ein Vampir essen? Zum Imbiss.
+   404 --- Wo gibt es die meisten Gespenster in Europa? In Buuuuuuuuhdapest!
+   405 --- Wo ist Harrison? Fort.
+   406 --- Wo ist die Deutschlandzentrale von Burger King? In Whoppertal.
+   407 --- Wo kommt das Essen rein? Dortmund.
+   408 --- Wo lernen die Ferkel? In der Grunzschule.
+   409 --- Wo machen Kühe Urlaub? Auf Kuuuhba!
+   410 --- Wo parkt ein Admin seine Yacht? Im Bootsektor.
+   411 --- Wo wohnen Katzen? Im Mietz-Haus!
+   412 --- Wo wohnt der Hamster? In Hamsterdamm.
+   413 --- Wo zeltet man besonders schön? In Campten.
+   414 --- Woher bekommt Pampel seine Ideen? Von seiner Muse.
+   415 --- Wohin gehen Arzt und Ärztin zum feiern? Auf den Medizinball.
+   416 --- Wohin geht ein Baum, wenn er Rückenschmerzen hat? Zum Kiefer-Orthopäden.
+   417 --- Wohin geht ein Zyklop, wenn er nicht gut sieht? Zum Augearzt.
+   418 --- Wollte Socken bei H&M kaufen. Oma strickt dagegen.
+   419 --- Womit backen Schlümpfe? Mit Garga-Mehl.
+   420 --- Womit ist der Boden eines Iglus ausgelegt? Mit Eisdielen.
+   421 --- Womit kann man eine Webseite hosten, aber nur wenn Vollmond ist? Mit einem Werserver.
+   422 --- Womit messen Bäcker die Größe von Croissants? Mit einem Eichhörnchen.
+   423 --- Womit verprügeln sich Schafe? Mit dem Mäh-Drescher.
+   424 --- Womit verzieren Rinder ihren Kuchen? Mit Kuhvertüre.
+   425 --- Worin entführt der Pirat seine Geliebte? In der Schatztruhe.
+   426 --- Wovon träumt eine Katze nachts? Von einem Muskelkater.
+   427 --- Wussten Sie, dass Esoteriker häufig zur Arbeit pendeln...?
+   428 --- Zu welchem Arzt geht Pinocchio? Zum Holz-Nasen-Ohren-Arzt.
+   429 --- Zu welchem Fest wird am meisten getrunken? Weinnachten.
