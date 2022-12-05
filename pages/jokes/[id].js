@@ -73,12 +73,13 @@ export async function getStaticProps({ params }) {
 
 
           {/* Text */}
-          <div id="joketext" class="card">
+          <div id="joketext" className="card">
           {jokeData.joke}	
           </div>
 
-          {/* Likes */}
+          {/* Likes 
           <div id="likes-container">
+          */}
 
           {/* Live option
           <div id="like-number">
@@ -107,7 +108,9 @@ export async function getStaticProps({ params }) {
             </form>	
           </div>
           */}
+          {/*
           </div>
+          */}
 
         </div>
 
