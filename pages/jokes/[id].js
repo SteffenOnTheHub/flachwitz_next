@@ -1,5 +1,7 @@
 import { getJokeData, getAllJokeIds } from '../../lib/jokes';
 import Layout from '../../components/layout';
+import NavigationBar from '../../components/navigationBar';
+import NavigationBarComponent from '../../components/navigationBar';
 
 export async function getStaticProps({ params }) {
     const jokeData = await getJokeData(params.id);
@@ -77,6 +79,9 @@ export async function getStaticProps({ params }) {
           {jokeData.joke}	
           </div>
 
+          <div> . </div>
+          
+          <NavigationBar />
           {/* Likes 
           <div id="likes-container">
           */}
