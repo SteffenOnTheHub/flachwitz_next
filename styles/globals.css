@@ -30,15 +30,19 @@ a {
 
 @charset "utf-8";
 :root {
-    --highlight: hotpink;
+    --highlight:hotpink;
     --text: whitesmoke;
     --background: black;
   }
 
 
-html,body
-{
-    height:100%;
+body {
+  margin:0px;
+  padding:0px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 0.9em;
+  text-align: justify;
+  background-color: var(--background);
 }
 
 .center {
@@ -82,13 +86,8 @@ html,body
     width: 100%;   
     height: 100%;
 }
-body {
-    margin:0px;
-    padding:0px;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 0.9em;
-    text-align: justify;
-}
+
+
 h1 {
     color: var(--text);
 }
@@ -233,69 +232,3 @@ ion-icon.active{
     text-align: center;
   }
 
-
-/*
-#main {
-    width: 560px;
-    float: left;
-    margin: 0 10px 50px 20px;   
-    padding-right: 10px;
-}
-#logo {
-    padding: 10px;
-    float: left;
-}
-#top_menu {
-    float: right;
-    padding: 50px 20px 0px 0px;
-    font-size: 1.2em;
-    color: #270c39;
-}
-
-ul.errorlist {
-    margin: 0;
-    padding: 0;
-}
-.errorlist li, .error {
-    border: 1px solid red;
-    color: red;
-    background: rgba(255, 0, 0, 0.15);
-    list-style-position: inside;
-    display: block;
-    font-size: 1.2em;
-    margin: 0 0 3px;
-    padding: 4px 5px;
-    text-align: center;    
-    border-radius: 3px;
-}
-input, button, textarea {
-    width: 100%;
-    padding: 5px!important;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box; 
-    border-radius: 3px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: rgb(169,169,169)
-}
-input[type="submit"], button {  
-    height: 30px;
-    width: 150px;
-    float: right;
-}
-input { 
-    height: 30px;
-}
-.success {
-    background-color: rgba(0, 128, 0, 0.15);
-    padding: 10px;
-    text-align: center;
-    color: green;
-    border: 1px solid green;
-    border-radius: 3px;
-}
-.required label:after {
-    content: "*";
-}
-*/
