@@ -1,6 +1,20 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import { getAllJokesData } from '../lib/jokes';
+
+
+export async function getStaticProps() {
+  const allJokesData = getAllJokesData();
+  //console.log(allJokesData)
+  return {
+    props: {
+      allJokesData,
+    },
+  };
+}
+
+
 
 export default function Home() {
   return (
