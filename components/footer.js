@@ -11,9 +11,7 @@ function FooterComponent() {
         </div>
         <div id="copyright">
             Copyright &copy;
-            <script type="text/JavaScript">
-            document.write(new Date().getFullYear());
-            </script> Flachwitze.de
+            {new Date().getFullYear() } Flachwitze.de
         </div>
         </footer>   
 	)
