@@ -9,9 +9,11 @@ function NavigationBarComponent(props) {
           <Link href={props.previousJokeUrl} legacyBehavior>
             <a className="icon-button"><IonIcon icon={arrowBack}/></a>
           </Link>
-
-          <a className="icon-button" href="google.com"><IonIcon icon={scan}/></a>
           
+          <Link href={props.randomJokeUrl} legacyBehavior>
+            <a className="icon-button"><IonIcon icon={scan}/></a>
+          </Link>
+
           <Link href={props.nextJokeUrl} legacyBehavior>
             <a className="icon-button"><IonIcon icon={arrowForward}/></a>
           </Link>

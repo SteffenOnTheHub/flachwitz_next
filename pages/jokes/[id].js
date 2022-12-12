@@ -1,18 +1,21 @@
-import { getJokeData, getPreviousJokeData, getNextJokeData, getAllJokeIds } from '../../lib/jokes';
+import { getJokeData, getPreviousJokeData, getNextJokeData, getAllJokeIds, getAllJokesData } from '../../lib/jokes';
 import Layout from '../../components/layout';
 import NavigationBar from '../../components/navigationBar';
-import NavigationBarComponent from '../../components/navigationBar';
 
 export async function getStaticProps({ params }) {
     const jokeData = await getJokeData(params.id);
     const previousJokeData = await getPreviousJokeData(params.id);
     const nextJokeData = await getNextJokeData(params.id);
     
+    const allJokes = getAllJokesData();
+    const randomJokeData = allJokes[Math.floor(Math.random() * allJokes.length)];
+
     return {
       props: {
         jokeData,
         previousJokeData,
         nextJokeData,
+        randomJokeData,
       },
     };
   }
@@ -92,7 +95,12 @@ export async function getStaticProps({ params }) {
                 </Link>
           */}
 
-          <NavigationBar previousJokeUrl={`/jokes/${encodeURIComponent(props.previousJokeData.id)}`} nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} />
+          <NavigationBar 
+            previousJokeUrl={`/jokes/${encodeURIComponent(props.previousJokeData.id)}`} 
+            nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} 
+            randomJokeUrl={`/jokes/${encodeURIComponent(props.randomJokeData.id)}`} 
+
+          />
           
           {/* Likes 
           <div id="likes-container">
