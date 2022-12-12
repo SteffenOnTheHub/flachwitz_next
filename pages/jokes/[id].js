@@ -1,14 +1,17 @@
-import { getJokeData, getNextJokeData, getAllJokeIds } from '../../lib/jokes';
+import { getJokeData, getPreviousJokeData, getNextJokeData, getAllJokeIds } from '../../lib/jokes';
 import Layout from '../../components/layout';
 import NavigationBar from '../../components/navigationBar';
 import NavigationBarComponent from '../../components/navigationBar';
 
 export async function getStaticProps({ params }) {
     const jokeData = await getJokeData(params.id);
+    const previousJokeData = await getPreviousJokeData(params.id);
     const nextJokeData = await getNextJokeData(params.id);
+    
     return {
       props: {
         jokeData,
+        previousJokeData,
         nextJokeData,
       },
     };
@@ -89,7 +92,8 @@ export async function getStaticProps({ params }) {
                 </Link>
           */}
 
-          <NavigationBar nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} />
+          <NavigationBar previousJokeUrl={`/jokes/${encodeURIComponent(props.previousJokeData.id)}`} nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} />
+          
           {/* Likes 
           <div id="likes-container">
           */}
