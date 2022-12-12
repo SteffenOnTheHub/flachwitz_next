@@ -43,37 +43,11 @@ export async function getStaticProps({ params }) {
   }
   */
 
-  export default function Joke( props) {
+  export default function Joke(props) {
     return (
       <Layout>
 
         <div id="jokewrapper">
-
-          {/* implement button which calls django url
-
-          //form
-          <div id="like-button">
-            <form action="{% url 'jokes:random' %}" method="POST">
-              {% csrf_token %}
-              <button class="icon-button"><ion-icon name="infinite"></ion-icon></button>
-            </form>	
-          </div>
-
-          //onClick
-          <button class="icon-button"><ion-icon name="infinite" onclick="location.href='{% url 'jokes:random' %}'"></ion-icon></button>
-
-          //link
-          <a class="icon-button" href="{% url 'jokes:random' %}""><ion-icon name="arrow-back"></ion-icon></a>
-          */}
-
-          {/* Navigation */}
-          {/* Live option
-          <div id="joke-navigation-button-container">
-          <a class="icon-button" href="{% url 'jokes:previous' joke.id %}""><ion-icon name="arrow-back"></ion-icon></a>
-          <a class="icon-button" href="{% url 'jokes:random' %}""><ion-icon name="scan"></ion-icon></a>
-          <a class="icon-button" href="{% url 'jokes:next' joke.id %}""><ion-icon name="arrow-forward"></ion-icon></a>
-          </div>
-          */}
 
           {/* Text 
           <div id="joketext" class="card">
@@ -89,12 +63,6 @@ export async function getStaticProps({ params }) {
 
           <div> . </div>
           
-          {/*
-          <Link href={`/jokes/${encodeURIComponent(previousJokeId)}`} passHref={true}>
-                    next post
-                </Link>
-          */}
-
           <NavigationBar 
             previousJokeUrl={`/jokes/${encodeURIComponent(props.previousJokeData.id)}`} 
             nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} 
