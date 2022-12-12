@@ -1,7 +1,7 @@
 function HeaderComponent() {    
     return (        
         <header id="header">
-            <h1> Flachwitze.de </h1>
+            <h1> Flachwitze </h1>
             {/*
             <div id="logo"><img src="{% static 'logo.png' %}" alt="" /></div>
             <div id="top_menu">Home | Calendar | About | Contact</div>

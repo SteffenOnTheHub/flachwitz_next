@@ -11,7 +11,7 @@ function FooterComponent() {
         </div>
         <div id="copyright">
             Copyright &copy;
-            {new Date().getFullYear()} Flachwitze.de
+            {new Date().getFullYear()} Flachwitze
         </div>
         </footer>   
 	)
