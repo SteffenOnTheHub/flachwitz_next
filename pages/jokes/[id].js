@@ -89,7 +89,7 @@ export async function getStaticProps({ params }) {
                 </Link>
           */}
 
-          <NavigationBar nextJokeData={props.nextJokeData} />
+          <NavigationBar nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} />
           {/* Likes 
           <div id="likes-container">
           */}
