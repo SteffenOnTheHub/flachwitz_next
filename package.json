@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@ionic/react": "^5.9.3",
+    "@vercel/analytics": "^0.1.6",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
     "ionicons": "^6.0.4",
