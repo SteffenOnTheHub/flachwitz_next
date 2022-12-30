@@ -55,38 +55,6 @@ export function getAllJokesData() {
     //console.log(' allJokesData ' ,  allJokesData);
     //console.log(' --- ' );
     return allJokesData;
-
-    // Get file names under /posts
-    const fileNames = fs.readdirSync(postsDirectory);
-    const allPostsData = fileNames.map((fileName) => {
-        // Remove ".md" from file name to get id
-        const id = fileName.replace(/\.md$/, '');
-
-        // Read markdown file as string
-        const fullPath = path.join(postsDirectory, fileName);
-        const fileContents = fs.readFileSync(fullPath, 'utf8');
-
-        // Use gray-matter to parse the post metadata section
-        const matterResult = matter(fileContents);
-
-        // Combine the data with the id
-        return {
-            id,
-            ...matterResult.data,
-        };
-    });
-
-
-    // Sort posts by date
-    return allPostsData.sort(({ date: a }, { date: b }) => {
-        if (a < b) {
-            return 1;
-        } else if (a > b) {
-            return -1;
-        } else {
-            return 0;
-        }
-    });
 }
 
 export function getAllJokeIds() {
@@ -145,7 +113,7 @@ export function getAllJokeIds() {
 }
 
 
-export async function getJokeData(id) {
+export async function getJokeData(id: string) {
 
     console.log("running getJokeData")
     const fileContents = fs.readFileSync(jokesFileNamePath, 'utf8');
@@ -180,7 +148,7 @@ export async function getJokeData(id) {
 
 }
 
-export async function getNextJokeData(currentJokeId) {
+export async function getNextJokeData(currentJokeId: string) {
 
     const fileContents = fs.readFileSync(jokesFileNamePath, 'utf8');
 
@@ -213,7 +181,7 @@ export async function getNextJokeData(currentJokeId) {
 
 }
 
-export async function getPreviousJokeData(currentJokeId) {
+export async function getPreviousJokeData(currentJokeId: string) {
 
     const fileContents = fs.readFileSync(jokesFileNamePath, 'utf8');
 
