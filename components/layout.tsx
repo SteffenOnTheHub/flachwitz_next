@@ -7,8 +7,6 @@ import React, { ReactNode } from "react";
   // any props that come into the component
 //}
 
-
-
 export default function Layout ({ children }: {
   children: ReactNode
 }) {

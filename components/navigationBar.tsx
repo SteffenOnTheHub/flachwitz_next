@@ -3,7 +3,14 @@ import { arrowBack, arrowForward, scan } from 'ionicons/icons';
 
 import Link from 'next/link'
 
-function NavigationBarComponent(props) {    
+interface NavigationBarProps {
+  previousJokeUrl: string;
+  randomJokeUrl: string;
+  nextJokeUrl: string;
+}
+
+
+function NavigationBarComponent(props: NavigationBarProps) {    
     return (        
         <div id="joke-navigation-button-container">         
           <Link href={props.previousJokeUrl} legacyBehavior>
