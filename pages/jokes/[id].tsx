@@ -55,11 +55,11 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 
-export default function Joke( props : PageProps) {
+export default function Joke(props : PageProps) {
   
-if(!props){
-    return;
-}
+  if(!props){
+      return;
+  }
 
 
   return (
