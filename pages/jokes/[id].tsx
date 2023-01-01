@@ -23,7 +23,6 @@ interface Params extends ParsedUrlQuery {
 export const getStaticProps: GetStaticProps = async (context) => {
   const params = context.params!       // ! is a non-null assertion 
   if(!params || !params.id){
-    console.log("no params")
     return {
       props: { error: true },
     };
@@ -36,8 +35,6 @@ export const getStaticProps: GetStaticProps = async (context) => {
   
   const allJokes = getAllJokesData();
   const randomJokeData = allJokes[Math.floor(Math.random() * allJokes.length)];
-
-  console.log("slug: ", jokeId)
 
   return {
     props: {
@@ -58,97 +55,75 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 
-  export default function Joke( props : PageProps) {
+export default function Joke( props : PageProps) {
   
-  console.log("props: ", props)
-  /*
-  export default function Joke({
-    jokeData
-  }: {
-    jokeData: {
-      id: string
-      joke: string
-    }
-  }) {
-  */
-
- /*
- export default function Joke({ jokeData }: { 
-      jokeData: {
-        id: string
-        joke: string
-      }
-    }) {
-  */
-  
-  
-  if(!props){
-      return;
-  }
+if(!props){
+    return;
+}
 
 
-    return (
-      <Layout>
+  return (
+    <Layout>
 
-        <div id="jokewrapper">
+      <div id="jokewrapper">
 
-          {/* Text 
-          <div id="joketext" class="card">
-          {{ joke.text|linebreaksbr }}		
-          </div>
-          */}
+        {/* Text 
+        <div id="joketext" class="card">
+        {{ joke.text|linebreaksbr }}		
+        </div>
+        */}
 
 
-          {/* Text */}
-          <div id="joketext" className="card">
-          {props.jokeData.joke}	
-          </div>
-
-          <div> . </div>
-          
-          <NavigationBar 
-            previousJokeUrl={`/jokes/${encodeURIComponent(props.previousJokeData.id)}`} 
-            nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} 
-            randomJokeUrl={`/jokes/${encodeURIComponent(props.randomJokeData.id)}`} 
-          />
-
-          {/* Likes 
-          <div id="likes-container">
-          */}
-
-          {/* Live option
-          <div id="like-number">
-            {{ joke.likes }} Like{{ joke.likes|pluralize }}
-          </div>
-          */}
-
-          {/* LIKE Button 
-            https://codepen.io/mateusz800/pen/OJPZXMa 
-            https://ionic.io/ionicons/usage
-          */}	
-
-          {/* Live option
-          <div id="like-button" >
-            <ion-icon id="like-icon" name="heart" /> 
-            <input type="hidden" id="likeUrl" data-url="{% url 'jokes:like' joke.id %}" />
-            </ion-icon>
-          </div>
-          */}
-
-          {/*
-          <div id="like-button">
-            <form action="{% url 'jokes:like' joke.id %}" method="POST">
-              {% csrf_token %}
-              <button type="submit" name="joke_id" value="{{joke.id}}" class="btn btn-info">Like</button>
-            </form>	
-          </div>
-          */}
-          {/*
-          </div>
-          */}
-
+        {/* Text */}
+        <div id="joketext" className="card">
+        {props.jokeData.joke}	
         </div>
 
-      </Layout>
-    );
-  }
+        <div> . </div>
+        
+        <NavigationBar 
+          previousJokeUrl={`/jokes/${encodeURIComponent(props.previousJokeData.id)}`} 
+          nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} 
+          randomJokeUrl={`/jokes/${encodeURIComponent(props.randomJokeData.id)}`} 
+        />
+
+        {/* Likes 
+        <div id="likes-container">
+        */}
+
+        {/* Live option
+        <div id="like-number">
+          {{ joke.likes }} Like{{ joke.likes|pluralize }}
+        </div>
+        */}
+
+        {/* LIKE Button 
+          https://codepen.io/mateusz800/pen/OJPZXMa 
+          https://ionic.io/ionicons/usage
+        */}	
+
+        {/* Live option
+        <div id="like-button" >
+          <ion-icon id="like-icon" name="heart" /> 
+          <input type="hidden" id="likeUrl" data-url="{% url 'jokes:like' joke.id %}" />
+          </ion-icon>
+        </div>
+        */}
+
+        {/*
+        <div id="like-button">
+          <form action="{% url 'jokes:like' joke.id %}" method="POST">
+            {% csrf_token %}
+            <button type="submit" name="joke_id" value="{{joke.id}}" class="btn btn-info">Like</button>
+          </form>	
+        </div>
+        */}
+        {/*
+        </div>
+        */}
+
+      </div>
+
+    </Layout>
+  );
+}
