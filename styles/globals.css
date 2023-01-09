@@ -201,7 +201,7 @@ ion-icon.active{
 }
 
 .card {
-    max-width: 750px;
+    max-width: 90%;
     border: 1px solid var(--highlight);
     border-radius: 15px;
     background-color: var(--highlight);
@@ -237,6 +237,7 @@ ion-icon.active{
 
   @media (min-width: 1200px) {
     .card {
+      max-width: 750px;
       font-size: 1.7vmax;
     }
   }
