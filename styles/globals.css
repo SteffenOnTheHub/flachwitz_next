@@ -209,7 +209,7 @@ ion-icon.active{
     /*
     font-size: 2.5em;
     */
-    font-size: 1.7vmax;
+    font-size: 2vmax;
     box-shadow:
         0 2.8px 2.2px rgba(255, 105, 180, 0.030),
         0 6.7px 5.3px rgba(255, 105, 180, 0.042),
@@ -235,3 +235,8 @@ ion-icon.active{
     text-align: center;
   }
 
+  @media (min-width: 1200px) {
+    .card {
+      font-size: 1.7vmax;
+    }
+  }
