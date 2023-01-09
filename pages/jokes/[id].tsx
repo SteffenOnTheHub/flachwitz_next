@@ -56,13 +56,11 @@ export default function Joke(props : PageProps) {
   }
 
   const jokeText = props.jokeData.joke
-    .replace('? ','?<br/>')
-    .replace('. ','.<br/>')
-    .replace(': ',':<br/>')
-    .replace('?\" ','?\"<br/>')
-    .replace('.\" ','.\"<br/>');
-
-
+    .replaceAll('? ','?<br/>')
+    .replaceAll('. ','.<br/>')
+    .replaceAll(': ',':<br/>')
+    .replaceAll('?\" ','?\"<br/>')
+    .replaceAll('.\" ','.\"<br/>');
 
   return (
     <Layout>
