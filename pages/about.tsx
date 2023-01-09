@@ -18,7 +18,7 @@ export default function About() {
 
             <p>
                 Source Code: &nbsp;
-                <a href="https://github.com/derphilipp/Flachwitze"> 
+                <a href="https://github.com/SteffenOnTheHub/flachwitz_next"> 
                 {/* <ion-icon name="logo-github"></ion-icon> */}
                 https://github.com/SteffenOnTheHub/flachwitz_next
                 </a> 

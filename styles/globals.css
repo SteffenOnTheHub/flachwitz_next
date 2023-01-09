@@ -110,6 +110,7 @@ h1 {
 }
 
 #about {
+  width: 99%;
   font-size: 1.5em;
   background-color: var(--background);
   color: var(--highlight);
