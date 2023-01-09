@@ -154,7 +154,10 @@ export async function getNextJokeData(currentJokeId: string) {
 
     const allLines = fileContents.split(/\r?\n/);
     let jokeText = "";
-    const nextJokeId = (parseInt(currentJokeId) + 1).toString();
+
+    const allJokesData = getAllJokesData();
+    const nextJokeNumber = parseInt(currentJokeId) + 1;
+    const nextJokeId = nextJokeNumber <= allJokesData.length ? nextJokeNumber.toString() : getAllJokesData().at(0).id;
 
     for (const line of allLines){
 
@@ -187,7 +190,9 @@ export async function getPreviousJokeData(currentJokeId: string) {
 
     const allLines = fileContents.split(/\r?\n/);
     let jokeText = "";
-    const previousJokeId = (parseInt(currentJokeId) - 1).toString();
+
+    const previousJokeNumber = parseInt(currentJokeId) - 1; 
+    const previousJokeId = previousJokeNumber > 0 ? previousJokeNumber.toString() : getAllJokesData().at(-1).id;
 
     for (const line of allLines){
 
