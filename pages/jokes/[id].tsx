@@ -60,6 +60,14 @@ export default function Joke(props : PageProps) {
       return;
   }
 
+  const jokeText = props.jokeData.joke
+    .replace('? ','?<br/>')
+    .replace('. ','.<br/>')
+    .replace(': ',':<br/>')
+    .replace('?\" ','?\"<br/>')
+    .replace('.\" ','.\"<br/>');
+
+
 
   return (
     <Layout>
@@ -72,10 +80,9 @@ export default function Joke(props : PageProps) {
         </div>
         */}
 
-
-        {/* Text */}
+        {/* Text  {jokeText} */}
         <div id="joketext" className="card">
-        {props.jokeData.joke}	
+        <p dangerouslySetInnerHTML={{__html: jokeText}} />
         </div>
 
         <div> . </div>
