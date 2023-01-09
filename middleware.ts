@@ -7,7 +7,7 @@ export function middleware(request: NextRequest) {
   const numberOfJokes = 429;
   const randomJokeId = Math.floor(Math.random() * numberOfJokes);
 
-  if (url.pathname === '/') {
+  if (url.pathname === '/' || url.pathname === '/random') {
     url.pathname = '/jokes/'+ randomJokeId.toString();
     return NextResponse.redirect(url)   
   } 

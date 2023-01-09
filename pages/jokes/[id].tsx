@@ -1,7 +1,7 @@
 import { getJokeData, getPreviousJokeData, getNextJokeData, getAllJokeIds, getAllJokesData } from '../../lib/jokes';
 import Layout from '../../components/layout';
 import NavigationBar from '../../components/navigationBar';
-import { GetStaticProps, GetStaticPaths } from 'next'
+import { GetStaticProps, GetStaticPaths, GetServerSideProps } from 'next'
 import { ParsedUrlQuery } from 'querystring';
 
 type JokeData = {
@@ -13,7 +13,6 @@ type PageProps = {
   jokeData: JokeData;
   previousJokeData: JokeData,
   nextJokeData: JokeData,
-  randomJokeData: JokeData,
 }
 
 interface Params extends ParsedUrlQuery {
@@ -21,6 +20,7 @@ interface Params extends ParsedUrlQuery {
 }
 
 export const getStaticProps: GetStaticProps = async (context) => {
+
   const params = context.params!       // ! is a non-null assertion 
   if(!params || !params.id){
     return {
@@ -34,14 +34,13 @@ export const getStaticProps: GetStaticProps = async (context) => {
   const nextJokeData = await getNextJokeData(jokeId);
   
   const allJokes = getAllJokesData();
-  const randomJokeData = allJokes[Math.floor(Math.random() * allJokes.length)];
+  //const randomJokeData = allJokes[Math.floor(Math.random() * allJokes.length)];
 
   return {
     props: {
       jokeData,
       previousJokeData,
       nextJokeData,
-      randomJokeData,
     }
   }
 }
@@ -84,7 +83,7 @@ export default function Joke(props : PageProps) {
         <NavigationBar 
           previousJokeUrl={`/jokes/${encodeURIComponent(props.previousJokeData.id)}`} 
           nextJokeUrl={`/jokes/${encodeURIComponent(props.nextJokeData.id)}`} 
-          randomJokeUrl={`/jokes/${encodeURIComponent(props.randomJokeData.id)}`} 
+          randomJokeUrl="/random" 
         />
 
         {/* Likes 
