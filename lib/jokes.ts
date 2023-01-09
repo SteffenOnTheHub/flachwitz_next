@@ -3,7 +3,12 @@ import path from 'path';
 
 const jokesFileNamePath = path.join(process.cwd(), 'jokedata/jokes.txt');
 
-export function getAllJokesData() {
+export type JokeData = {
+    id: string;
+    joke: string;
+  };
+
+export function getAllJokesData(): JokeData[] {
     
     console.log("running getAllJokesData")
     const fileContents = fs.readFileSync(jokesFileNamePath, 'utf8');
@@ -113,6 +118,8 @@ export function getAllJokeIds() {
 }
 
 
+
+
 export async function getJokeData(id: string) {
 
     console.log("running getJokeData")
@@ -155,9 +162,10 @@ export async function getNextJokeData(currentJokeId: string) {
     const allLines = fileContents.split(/\r?\n/);
     let jokeText = "";
 
-    const allJokesData = getAllJokesData();
+    const allJokesData:JokeData[] = getAllJokesData();
+
     const nextJokeNumber = parseInt(currentJokeId) + 1;
-    const nextJokeId = nextJokeNumber <= allJokesData.length ? nextJokeNumber.toString() : getAllJokesData().at(0).id;
+    const nextJokeId = nextJokeNumber <= allJokesData.length ? nextJokeNumber.toString() : allJokesData.at(0)?.id;
 
     for (const line of allLines){
 
@@ -192,7 +200,7 @@ export async function getPreviousJokeData(currentJokeId: string) {
     let jokeText = "";
 
     const previousJokeNumber = parseInt(currentJokeId) - 1; 
-    const previousJokeId = previousJokeNumber > 0 ? previousJokeNumber.toString() : getAllJokesData().at(-1).id;
+    const previousJokeId = previousJokeNumber > 0 ? previousJokeNumber.toString() : getAllJokesData()?.at(-1)?.id;
 
     for (const line of allLines){
 

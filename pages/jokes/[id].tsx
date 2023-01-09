@@ -1,13 +1,8 @@
-import { getJokeData, getPreviousJokeData, getNextJokeData, getAllJokeIds, getAllJokesData } from '../../lib/jokes';
+import { getJokeData, getPreviousJokeData, getNextJokeData, getAllJokeIds, getAllJokesData, JokeData } from '../../lib/jokes';
 import Layout from '../../components/layout';
 import NavigationBar from '../../components/navigationBar';
 import { GetStaticProps, GetStaticPaths, GetServerSideProps } from 'next'
 import { ParsedUrlQuery } from 'querystring';
-
-type JokeData = {
-  id: string;
-  joke: string;
-};
 
 type PageProps = {
   jokeData: JokeData;
